@@ -1,8 +1,10 @@
 (c) 2024, RetiredCoder (RC)
 
 RCKangaroo is free and open-source (GPLv3).
-This software demonstrates efficient GPU implementation of SOTA Kangaroo method for solving ECDLP. 
+This software demonstrates efficient GPU implementation of SOTA Kangaroo method for solving ECDLP.
 It's part #3 of my research, you can find more details here: https://github.com/RetiredC
+
+This fork has been modified to be compiled with CUDA 13-13.1+.
 
 Discussion thread: https://bitcointalk.org/index.php?topic=5517607
 
